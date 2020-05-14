@@ -1,0 +1,64 @@
+{
+    "pageTextData": [
+		{
+			"brand": "APM",
+			"title": "Porcelain of ancient China",	
+			"description": "The porcelain of the Ming Dynasty of China (1368-1644 CE) benefitted, as did other arts, from the economic success of the 15th century CE, in particular, and the consequent surge in demand for quality handcraft production both at home and abroad. The Ming dynasty is rightly famous for its fine ceramics and especially the cobalt blue-and-white porcelain produced in such towns as Jingdezhen in Jiangxi province. Still highly prized by collectors today, Ming porcelain would have a major influence on the ceramics of many other countries from Japan to Britain."
+		},
+		{
+			"title": "Bronze vase",
+			"subTitle": "Ming Dynasty, Xuande reign period, AD 1425-1435",		
+			"description": "Bronze vase, double gourd form. The main portion, of oval section, having a large panel on each side with dragons and clouds in sharp relief; two loop handles with vertical bands of engraved floral ornament below each. Raised Xuande mark on upper part.",
+			"dimensions": "Height: 23.5 cm, Width: 17 cm"
+		},
+		{
+			"title": "Flower pot",
+			"subTitle": "Ming Dynasty, AD 1436-1464",		
+			"description": "Flower cultivation and arrangement were popular pastimes amongst wealthy people in Ming period. Flowers were potted and put in vases in interiors and in gardens, forming miniature landscapes modelled on landscape paintings. As with other objects for elite hobbies, there were rules depending on your rank as to the size of planters and where they should be positioned in the home, and so on.",
+			"dimensions": "Height: 45 cm, Width: 30 cm"
+		},
+		{
+			"title": "Wine-storage jar",
+			"subTitle": "Ming Dynasty, Tianshun reign period, AD 1457-1464",		
+			"description": "This meiping shows a scholarly immortal (one who lives forver) against a background of undulating clouds. His servants are painted on a smaller scale than their master, following Chinese painting convention. One carries a zither (qin) wrapped in material. The qin was the ultimate instrument for a Chinese intellectual, which he would ideally play in a beautiful landscape.",
+			"dimensions": "Height: 70 cm, Width: 35 cm"
+		},
+		{
+			"title": "Vase or candleholder",
+			"subTitle": "Ming Dynasty, Zhengde reign mark and period, AD 1506-1521",		
+			"description": "The base of this vessel bears the reign mark of the Zhengde emperor, but the inscription on the body says 'Preserve our faith from danger' in Persian. It may have been used by the Zhengde emperor, who was fascinated by foreign scripts. But it was probably made for the Muslim eunuchs of Near Eastern descent. They were powerful during this time, and were able to get porcelain made for their exclusive use in the Imperial kilns.",
+			"dimensions": "Height: 35 cm, Width: 20 cm"
+		},
+		{
+			"x3dModelTitle": "Bronze vase X3D Model",
+			"x3dCreationMethod": "This is a 3D model of an ancient Chinese bronze vase recreated through Cinema4D, with VRML2 (VRML97) to X3D convertion for online viewing."
+		},
+		{
+			"x3dModelTitle": "Flower pot X3D Model",
+			"x3dCreationMethod": "This is a 3D model of an ancient Chinese flower pot recreated through Cinema4D, with VRML2 (VRML97) to X3D convertion for online viewing."
+		},
+        {
+			"x3dModelTitle": "Wine-storage jar X3D Model",
+			"x3dCreationMethod": "This is a 3D model of an ancient Chinese wine-storage jar recreated through Cinema4D, with VRML2 (VRML97) to X3D convertion for online viewing."
+		},
+		{
+			"x3dModelTitle": "Vase or candleholder X3D Model",
+			"x3dCreationMethod": "This is a 3D model of an ancient Chinese vase or candleholder recreated through Cinema4D, with VRML2 (VRML97) to X3D convertion for online viewing."
+		},
+		{
+			"galleryTitle": "Gallery",
+			"gallerySubTitle": "3D Images",
+			"galleryDescription": "These are the high quality render results of a bronze vase, flower pot, wine-storage jar, and vase or candleholder with realistic settings."
+		},
+		{
+			"title": "Interactive options",
+			"cameraSubtitle": "Camera Views:",
+			"renderSubtitle": "Render Options:",
+			"lightSubtitle": "Lighting Options:"
+		},
+		{
+			"modalTitle": "About Ancient Porcelain Museum (APM)",
+			"modalDescription": "APM is an online virtue museum dedicated for porcelain made in ancient China with hundreds of years of history."
+		}
+	]
+}
