@@ -1,6 +1,7 @@
 <?php
 
 $directory = '../assets/images/gallery_images';
+$imgPath = '../assignment/assets/images/gallery_images';
 
 $allowed_extensions = array('jpg','jpeg','gif','png');
 
