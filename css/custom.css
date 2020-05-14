@@ -1,7 +1,7 @@
 /*Method to declare your own fonts */
 @font-face {
     font-family: headingFont;
-    src: url(../assets/fonts/sanford/Sanford-0103_demo.TTF);
+    src: url("../assets/fonts/sanford/Sanford-0103_demo.ttf");
 }
 
 @font-face {
